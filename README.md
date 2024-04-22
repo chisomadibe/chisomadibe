@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chisomadibe
 - 👀 I’m interested in Data Analysis, R, SQL, PYTHON
-- 🌱 I’m currently learning Data Analysis, and Microsoft Excel
+- 🌱 I’m currently learning Data Analysis with Microsoft Excel and I am learning PYTHON with Jupyter Notebook
 - 💞️ I’m looking to collaborate on different level of the Data Analystic World
 - 📬 You can reach me on LinkedIn - Chisom Adibe
 
